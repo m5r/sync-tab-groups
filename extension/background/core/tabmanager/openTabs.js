@@ -58,6 +58,7 @@ async function openTab(
     pinned: tab.pinned,
     index: index,
     windowId: windowId,
+    cookieStoreId: tab.cookieStoreId,
   };
 
 

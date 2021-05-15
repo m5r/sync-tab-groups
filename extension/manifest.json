@@ -25,7 +25,9 @@
     "notifications",
     "contextMenus",
     "unlimitedStorage",
-    "tabHide"
+    "tabHide",
+    "contextualIdentities",
+    "cookies"
   ],
 
   "background": {
