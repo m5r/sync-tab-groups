@@ -10,7 +10,6 @@ module.exports = {
     pref: [
       "extensions.webextensions.tabhide.enabled=true",
     ],
-    noReload: true,
-    firefox: "firefoxdeveloperedition",
+    firefox: "firefox-developer-edition",
   },
 };
