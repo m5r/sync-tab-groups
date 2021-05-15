@@ -11,7 +11,7 @@
 
   "applications": {
     "gecko": {
-      "id": "sync-tab-groups@eric.masseran",
+      "id": "sync-tab-groups@m5r",
       "strict_min_version": "56.0"
     }
   },
